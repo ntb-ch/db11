@@ -1,0 +1,16 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DriveBoard.PrjPcb|ReportField=ProjectFullPath~D:\work\PATHOS\SVN\03_Artworks\Panels\Electronics\DriveBoard\AltiumFiles\DriveBoard.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PATHOS_DriveBoard.PcbDoc]|ReportField=TotalQuantity~64|ReportField=ReportTime~16:25:45|ReportField=ReportDate~24.11.2015|ReportField=ReportDateTime~24.11.2015 16:25:45|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PATHOS_DriveBoard.PcbDoc|ReportField=DataSourceFullPath~D:\work\PATHOS\SVN\03_Artworks\Panels\Electronics\DriveBoard\AltiumFiles\PATHOS_DriveBoard.PcbDoc
+Cap|Capacitor|C1, C4|1812|Cap|2
+Cap|Capacitor|C2, C3, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26|0603_3D|Cap|24
+10mF|Polarized Capacitor Positive Mark Bar|C27|Cap_SLP_C7_10mF|C_POL|1
+SMBJ54A|TVS Diode|D1|TVS_DO214AA|Diode SMBJ54A|1
+Fuse 1|Fuse|F1|Fuse40ASMD|Fuse 1|1
+Header 2x13|Header, 13-Pin, Dual row|P1|Wannenstecker26Pol|Header 2x13|1
+Header 2x7|Header, 7-Pin, Dual row|P2|Wannenstecker14Pol|Header 2x7|1
+Connector Encoder|Header, 5-Pin, Dual row|P3_Drive1, P3_Drive2, P3_Drive3, P3_Drive4|WANNENSTECKER 2X5 - H|Header 5X2|4
+Connector Hall Sensors|Header, 5-Pin|P4_Drive1, P4_Drive2, P4_Drive3, P4_Drive4|PhoenixHeaderScrew_3_5mm_5pol|Header 5|4
+Motor Header|Header, 4-Pin|P5_Drive1, P5_Drive2, P5_Drive3, P5_Drive4|PhoenixHeaderScrew_3_5mm_4pol|Header 4|4
+Header 24V Power Supply for Drives|Header, 2-Pin|P6|PhoenixHeader5_08_Vertical_unsymetric|Header 2|1
+Res2|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9|0603_3D|Res2|9
+Maxon ESCON 50/5 Drive|Maxon Drive 4Q|U1_Drive1, U1_Drive2, U1_Drive3, U1_Drive4|ESCON_MODULE_50/5|DRV_ESCON_50_5|4
+AM26LV32CD|AM26LV32CD|U2, U5|SOP16|AM26LV32CD|2
+74LVC2T45|SN74LVC2T45DCTR|U3, U4, U6, U7, U8|74LVC2T45|74LVC2T45|5
